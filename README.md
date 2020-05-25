@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DemoOrg-12/DemoProj12/_apis/build/status/HimanshuMamodiya.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/DemoOrg-12/DemoProj12/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
